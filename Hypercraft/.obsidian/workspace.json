@@ -1,0 +1,341 @@
+{
+  "main": {
+    "id": "63e67e4d6e186390",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6024e9c6f3224fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f163458d9852b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "!Точка входа.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "!Точка входа"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16e7f107e410a305",
+    "type": "split",
+    "children": [
+      {
+        "id": "567b0991b039c662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9be3e8f99c2ddb92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "be95024f5e7af3cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      },
+      {
+        "id": "12e10a4939c32cfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "142855578b7fde1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb76d60cb32bf146",
+    "type": "split",
+    "children": [
+      {
+        "id": "068fa287a763d2e6",
+        "type": "tabs",
+        "dimension": 33.771929824561404,
+        "children": [
+          {
+            "id": "543a45933ee21b5e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "dc3fef835365fafa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Изучение Obsidian/Ускоряем работы в Obsidian с помощью горячих клавиш.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Ускоряем работы в Obsidian с помощью горячих клавиш"
+            }
+          },
+          {
+            "id": "c43831d99a1d2ccc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Изучение Obsidian/Ускоряем работы в Obsidian с помощью горячих клавиш.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Ускоряем работы в Obsidian с помощью горячих клавиш"
+            }
+          },
+          {
+            "id": "473b71a5f37512c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "6294f54606d7130f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "bd8a293ed0b390c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Инструменты/Словарь тегов.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Словарь тегов"
+            }
+          },
+          {
+            "id": "ee05b6c207b0d43c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "ae827469115eeeb0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "c48dd4108a6019ec",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          },
+          {
+            "id": "bae2f34ade2a1ba4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "9eb39f12359cd896",
+        "type": "tabs",
+        "dimension": 31.21345029239766,
+        "children": [
+          {
+            "id": "21856a2fbac121cc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      },
+      {
+        "id": "67e7e6d714d05231",
+        "type": "tabs",
+        "dimension": 35.014619883040936,
+        "children": [
+          {
+            "id": "2ccb23f69c3967cd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": true,
+      "daily-notes:Сегодняшняя заметка": true,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": true,
+      "markdown-importer:Импорт Markdown-файлов": true,
+      "workspaces:Пространства": true,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "improved-random-note:Open improved random note": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "obsidian-stille:Toggle Stille": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1f163458d9852b6e",
+  "lastOpenFiles": [
+    "Ultimate Merger/!Игра.md",
+    "!🔥Заметки.md",
+    "_Входящие/Элемент.md",
+    "Ultimate Merger/UI&UX.md",
+    "Ultimate Merger/Персонаж.md",
+    "Ultimate Merger/Мета прогрессия.md",
+    "Ultimate Merger/Механики.md",
+    "Ultimate Merger/Книга рецептов.md",
+    "Ultimate Merger/Кастомизация.md",
+    "Инструменты/Словарь тегов.md",
+    "Инструменты/Кастомные чекбоксы.md",
+    "Инструменты/Cиротки.md",
+    "!Точка входа.md",
+    "UI",
+    "Файлы/Pasted image 20250401035656.png",
+    "Шаблоны/Мета.md",
+    "_Входящие/Рецепты.md",
+    "SlotRPG/Валюты.md",
+    "_Входящие/Символы и ключевые слова/Примеры символов без ключ. слов.md",
+    "_Входящие/Механики и мета-прогресс/Слот-машина как «колода».md",
+    "_Входящие/Механики и мета-прогресс/Редкость символов.md",
+    "_Входящие/Механики и мета-прогресс/Мета-прогрессия.md",
+    "_Входящие/Итоги и дальнейшие шаги/Итоги и дальнейшие шаги.md",
+    "_Входящие/Игровая структура и бои/Количество боёв.md",
+    "_Входящие/Игровая структура и бои/Типы боёв.md",
+    "_Входящие/Игровая структура и бои/Структура первой арки.md",
+    "SlotRPG/Настройки нейросети.md",
+    "_Входящие/События/События.md",
+    "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
+    "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
+    "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
+    "Файлы/Leonardo_Anime_XL_Popart_style_concept_art_of_a_decaying_zombi_0.jpg",
+    "Файлы/Pasted image 20250330031541.png",
+    "Файлы/Pasted image 20250330031627.png",
+    "Файлы/Pasted image 20250330031646.png",
+    "Файлы/Pasted image 20250330031733.png",
+    "Файлы/Pasted image 20250330034536.png",
+    "_Входящие",
+    "Визуализация навигации.canvas",
+    "Инструменты",
+    "Файлы",
+    "Шаблоны",
+    "Архив",
+    "Файлы/Таблица синтаксиса Markdown.pdf",
+    "Бонус",
+    "Файлы/Шрифты/Mulish.zip",
+    "Файлы/Шрифты/Circe.zip"
+  ]
+}
