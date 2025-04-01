@@ -1,0 +1,19 @@
+# Исключить workspace (индивидуальный для каждого)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Исключить визуальные настройки (темы, шрифты, зум и т.п.)
+.obsidian/appearance.json
+.obsidian/app.json
+.obsidian/graph.json
+.obsidian/themes/
+
+# Временные файлы
+.obsidian/cache/
+.DS_Store
+Thumbs.db
+
+# Но оставить:
+!.obsidian/plugins/
+!.obsidian/community-plugins.json
+/.obsidian/hotkeys.json
