@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6024e9c6f3224fb",
+        "id": "fe3f3e43aa7b6ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "1f163458d9852b6e",
+            "id": "75d56867c308b074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "!Точка входа.md",
+                "file": "Инструменты/Cиротки.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "!Точка входа"
+              "title": "Cиротки"
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#раздел/💅",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cb76d60cb32bf146",
@@ -93,7 +93,7 @@
       {
         "id": "068fa287a763d2e6",
         "type": "tabs",
-        "dimension": 33.771929824561404,
+        "dimension": 33.861301369863014,
         "children": [
           {
             "id": "543a45933ee21b5e",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Изучение Obsidian/Ускоряем работы в Obsidian с помощью горячих клавиш.md",
+                "file": "Инструменты/Cиротки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Ускоряем работы в Obsidian с помощью горячих клавиш"
+              "title": "Обратные ссылки для Cиротки"
             }
           },
           {
@@ -183,57 +183,17 @@
               "icon": "lucide-list",
               "title": "Структура Словарь тегов"
             }
-          },
-          {
-            "id": "ee05b6c207b0d43c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "ae827469115eeeb0",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "c48dd4108a6019ec",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
-            }
-          },
-          {
-            "id": "bae2f34ade2a1ba4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       },
       {
-        "id": "9eb39f12359cd896",
+        "id": "e6b8b31fdd342dbb",
         "type": "tabs",
-        "dimension": 31.21345029239766,
+        "dimension": 33.861301369863014,
         "children": [
           {
-            "id": "21856a2fbac121cc",
+            "id": "920e8345dec3eebd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -247,7 +207,7 @@
       {
         "id": "67e7e6d714d05231",
         "type": "tabs",
-        "dimension": 35.014619883040936,
+        "dimension": 32.27739726027397,
         "children": [
           {
             "id": "2ccb23f69c3967cd",
@@ -263,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,56 +237,57 @@
       "markdown-importer:Импорт Markdown-файлов": true,
       "workspaces:Пространства": true,
       "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "improved-random-note:Open improved random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "improved-random-note:Open improved random note": true,
       "obsidian-kanban:Создать новую доску": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "omnisearch:Omnisearch": false,
       "obsidian-spaced-repetition:Изучать карточки": false,
-      "obsidian-stille:Toggle Stille": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "obsidian-stille:Toggle Stille": true,
+      "templater-obsidian:Templater": true,
+      "periodic-notes:Open today": true
     }
   },
-  "active": "1f163458d9852b6e",
+  "active": "75d56867c308b074",
   "lastOpenFiles": [
-    "Ultimate Merger/!Игра.md",
-    "!🔥Заметки.md",
-    "_Входящие/Элемент.md",
-    "Ultimate Merger/UI&UX.md",
-    "Ultimate Merger/Персонаж.md",
-    "Ultimate Merger/Мета прогрессия.md",
-    "Ultimate Merger/Механики.md",
-    "Ultimate Merger/Книга рецептов.md",
-    "Ultimate Merger/Кастомизация.md",
-    "Инструменты/Словарь тегов.md",
-    "Инструменты/Кастомные чекбоксы.md",
+    "Ultimate Merger/Локализация.md",
     "Инструменты/Cиротки.md",
+    "!🔥Заметки.md",
+    "Excalidraw/Drawing 2025-04-18 03.36.20.excalidraw.md",
+    "Шаблоны/Арт.md",
+    "Ultimate Merger/Интерфейсы.md",
+    "_Входящие/Безымянная Kanban-доска 1.md",
+    "_Входящие/Безымянная Kanban-доска.md",
+    "Excalidraw",
+    "_Входящие/Автоматическое заполнение обмена.md",
+    "_Входящие/Элемент.md",
+    "Ultimate Merger/Обмен предметов.md",
+    "Ultimate Merger/Меню настроек.md",
+    "Инструменты/Словарь тегов.md",
+    "Ultimate Merger/Референсы.md",
+    "Ultimate Merger/UI&UX.md",
+    "Файлы/Pasted image 20250418022957.png",
+    "Файлы/Pasted image 20250418022749.png",
+    "Ultimate Merger/Кастомизация.md",
+    "Файлы/Pasted image 20250418020615.png",
+    "Ultimate Merger/Персонаж.md",
+    "Файлы/Pasted image 20250418014721.png",
     "!Точка входа.md",
+    "Файлы/Pasted image 20250418013341.png",
+    "Файлы/Pasted image 20250418013333.png",
+    "Файлы/Pasted image 20250418013317.png",
+    "Файлы/Pasted image 20250418013303.png",
+    "Файлы/Pasted image 20250418013222.png",
+    "Файлы/Pasted image 20250418013156.png",
+    "Ultimate Merger/Мета прогрессия.md",
+    "Ultimate Merger/!Игра.md",
+    "20250407.md",
+    "Ultimate Merger/Механики.md",
+    "_Входящие/геймплей.md",
+    "Инструменты/Кастомные чекбоксы.md",
     "UI",
-    "Файлы/Pasted image 20250401035656.png",
     "Шаблоны/Мета.md",
     "_Входящие/Рецепты.md",
-    "SlotRPG/Валюты.md",
-    "_Входящие/Символы и ключевые слова/Примеры символов без ключ. слов.md",
-    "_Входящие/Механики и мета-прогресс/Слот-машина как «колода».md",
-    "_Входящие/Механики и мета-прогресс/Редкость символов.md",
-    "_Входящие/Механики и мета-прогресс/Мета-прогрессия.md",
-    "_Входящие/Итоги и дальнейшие шаги/Итоги и дальнейшие шаги.md",
-    "_Входящие/Игровая структура и бои/Количество боёв.md",
-    "_Входящие/Игровая структура и бои/Типы боёв.md",
-    "_Входящие/Игровая структура и бои/Структура первой арки.md",
-    "SlotRPG/Настройки нейросети.md",
-    "_Входящие/События/События.md",
-    "Файлы/Leonardo_Anime_XL_A_bold_popart_style_fantasy_illustration_of_3.jpg",
-    "Файлы/Leonardo_Anime_XL_A_popart_style_concept_illustration_of_a_cun_0.jpg",
-    "Файлы/Leonardo_Anime_XL_A_popart_style_fantasy_game_user_interface_c_1.jpg",
-    "Файлы/Leonardo_Anime_XL_Popart_style_concept_art_of_a_decaying_zombi_0.jpg",
-    "Файлы/Pasted image 20250330031541.png",
-    "Файлы/Pasted image 20250330031627.png",
-    "Файлы/Pasted image 20250330031646.png",
-    "Файлы/Pasted image 20250330031733.png",
-    "Файлы/Pasted image 20250330034536.png",
     "_Входящие",
     "Визуализация навигации.canvas",
     "Инструменты",
@@ -335,7 +296,6 @@
     "Архив",
     "Файлы/Таблица синтаксиса Markdown.pdf",
     "Бонус",
-    "Файлы/Шрифты/Mulish.zip",
-    "Файлы/Шрифты/Circe.zip"
+    "Файлы/Шрифты/Mulish.zip"
   ]
 }
