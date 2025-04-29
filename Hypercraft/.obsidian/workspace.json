@@ -183,9 +183,59 @@
               "icon": "lucide-list",
               "title": "Структура Словарь тегов"
             }
+          },
+          {
+            "id": "d5b2c3b36af7ad27",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "22c841f2a23e84de",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "15356e8c8221baf5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "eabe8f71c71c1d51",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
+          },
+          {
+            "id": "d86aac7e946cecfd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Очередь заметок на повторение"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       },
       {
         "id": "e6b8b31fdd342dbb",
@@ -245,10 +295,10 @@
       "obsidian-spaced-repetition:Изучать карточки": false,
       "obsidian-stille:Toggle Stille": true,
       "templater-obsidian:Templater": true,
-      "periodic-notes:Open today": true
+      "periodic-notes:Open today": false
     }
   },
-  "active": "75d56867c308b074",
+  "active": "d86aac7e946cecfd",
   "lastOpenFiles": [
     "Ultimate Merger/Локализация.md",
     "Инструменты/Cиротки.md",
