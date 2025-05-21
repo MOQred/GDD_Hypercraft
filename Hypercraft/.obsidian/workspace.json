@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Отмечеменные избранными ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       {
         "id": "068fa287a763d2e6",
         "type": "tabs",
-        "dimension": 33.861301369863014,
+        "dimension": 50,
         "children": [
           {
             "id": "6294f54606d7130f",
@@ -140,7 +140,7 @@
       {
         "id": "e6b8b31fdd342dbb",
         "type": "tabs",
-        "dimension": 33.861301369863014,
+        "dimension": 50,
         "children": [
           {
             "id": "920e8345dec3eebd",
@@ -150,23 +150,6 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Граф"
-            }
-          }
-        ]
-      },
-      {
-        "id": "67e7e6d714d05231",
-        "type": "tabs",
-        "dimension": 32.27739726027397,
-        "children": [
-          {
-            "id": "2ccb23f69c3967cd",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
             }
           }
         ]
