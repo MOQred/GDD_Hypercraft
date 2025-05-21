@@ -1,4 +1,4 @@
-<h1 align="center">GDD SlotRPG</h1>
+<h1 align="center">GDD My idol</h1>
 <p align="center"><a href="README_en.md">English version</a> - <a href="#-описание">📖 Описание</a> - <a href="#-как-просматривать">🛠 Как просматривать</a> - <a href="#-контакты-и-данные">📧 Контакты и данные</a></p>
 
 # 📖 Описание
