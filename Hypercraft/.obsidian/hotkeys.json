@@ -130,14 +130,6 @@
       "key": "D"
     }
   ],
-  "app:reload": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "obsidian-outliner:indent-list": [
     {
       "modifiers": [
@@ -344,6 +336,24 @@
         "Shift"
       ],
       "key": "P"
+    }
+  ],
+  "editor:table-col-before": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:table-row-before": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
     }
   ]
 }

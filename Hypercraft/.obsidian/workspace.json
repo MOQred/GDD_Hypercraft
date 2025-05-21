@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75d56867c308b074",
+            "id": "0cb940d24f521714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инструменты/Cиротки.md",
+                "file": "Ultimate Merger/Редкость предметов.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Cиротки"
+              "title": "Редкость предметов"
+            }
+          },
+          {
+            "id": "5ab00ce57253e949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ultimate Merger/Кастомизация.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Кастомизация"
             }
           }
         ]
@@ -69,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#раздел/💅",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,66 +110,6 @@
         "dimension": 33.861301369863014,
         "children": [
           {
-            "id": "543a45933ee21b5e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
-            "id": "dc3fef835365fafa",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Инструменты/Cиротки.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для Cиротки"
-            }
-          },
-          {
-            "id": "c43831d99a1d2ccc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Изучение Obsidian/Ускоряем работы в Obsidian с помощью горячих клавиш.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Ускоряем работы в Obsidian с помощью горячих клавиш"
-            }
-          },
-          {
-            "id": "473b71a5f37512c9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
-            }
-          },
-          {
             "id": "6294f54606d7130f",
             "type": "leaf",
             "state": {
@@ -175,67 +129,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Инструменты/Словарь тегов.md",
+                "file": "Ultimate Merger/Редкость предметов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Словарь тегов"
+              "title": "Структура Редкость предметов"
             }
           },
           {
-            "id": "d5b2c3b36af7ad27",
+            "id": "75806b8e7a05996f",
             "type": "leaf",
             "state": {
-              "type": "review-queue-list-view",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "22c841f2a23e84de",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "15356e8c8221baf5",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "eabe8f71c71c1d51",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
-            }
-          },
-          {
-            "id": "d86aac7e946cecfd",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Очередь заметок на повторение"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       },
       {
         "id": "e6b8b31fdd342dbb",
@@ -295,49 +209,50 @@
       "obsidian-spaced-repetition:Изучать карточки": false,
       "obsidian-stille:Toggle Stille": true,
       "templater-obsidian:Templater": true,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d86aac7e946cecfd",
+  "active": "0cb940d24f521714",
   "lastOpenFiles": [
+    "Ultimate Merger/Предмет.md",
+    "Ultimate Merger/Персонаж.md",
+    "Ultimate Merger/Кастомизация.md",
+    "Ultimate Merger/Обмен предметов.md",
+    "Ultimate Merger/Мета прогрессия.md",
+    "Ultimate Merger/Меню настроек.md",
     "Ultimate Merger/Локализация.md",
-    "Инструменты/Cиротки.md",
-    "!🔥Заметки.md",
-    "Excalidraw/Drawing 2025-04-18 03.36.20.excalidraw.md",
-    "Шаблоны/Арт.md",
     "Ultimate Merger/Интерфейсы.md",
+    "Ultimate Merger/Избранный предмет.md",
+    "Ultimate Merger/Автоматическое заполнение обмена 1.md",
+    "Ultimate Merger/Редкость предметов.md",
+    "_Входящие/Сундук.md",
+    "Ultimate Merger/UI&UX.md",
+    "!Точка входа.md",
+    "!🔥Заметки.md",
+    "Инструменты/Cиротки.md",
+    "Ultimate Merger/Концепты UI.md",
+    "Файлы/Pasted image 20250521164908.png",
+    "Файлы/Pasted image 20250521164903.png",
+    "Файлы/Pasted image 20250521155730.png",
+    "Файлы/Pasted image 20250521143235.png",
+    "Файлы/Pasted image 20250521154243.png",
+    "Файлы/Pasted image 20250521153412.png",
+    "Ultimate Merger/Ключевые даты.md",
+    "Ultimate Merger/Автоматическое заполнение обмена.md",
+    "Ultimate Merger/!Игра.md",
+    "Инструменты/Кастомные чекбоксы.md",
+    "Шаблоны/Арт.md",
+    "Инструменты/Словарь тегов.md",
+    "Excalidraw/Drawing 2025-04-18 03.36.20.excalidraw.md",
     "_Входящие/Безымянная Kanban-доска 1.md",
     "_Входящие/Безымянная Kanban-доска.md",
     "Excalidraw",
-    "_Входящие/Автоматическое заполнение обмена.md",
-    "_Входящие/Элемент.md",
-    "Ultimate Merger/Обмен предметов.md",
-    "Ultimate Merger/Меню настроек.md",
-    "Инструменты/Словарь тегов.md",
-    "Ultimate Merger/Референсы.md",
-    "Ultimate Merger/UI&UX.md",
     "Файлы/Pasted image 20250418022957.png",
     "Файлы/Pasted image 20250418022749.png",
-    "Ultimate Merger/Кастомизация.md",
     "Файлы/Pasted image 20250418020615.png",
-    "Ultimate Merger/Персонаж.md",
     "Файлы/Pasted image 20250418014721.png",
-    "!Точка входа.md",
-    "Файлы/Pasted image 20250418013341.png",
-    "Файлы/Pasted image 20250418013333.png",
-    "Файлы/Pasted image 20250418013317.png",
-    "Файлы/Pasted image 20250418013303.png",
-    "Файлы/Pasted image 20250418013222.png",
-    "Файлы/Pasted image 20250418013156.png",
-    "Ultimate Merger/Мета прогрессия.md",
-    "Ultimate Merger/!Игра.md",
-    "20250407.md",
-    "Ultimate Merger/Механики.md",
-    "_Входящие/геймплей.md",
-    "Инструменты/Кастомные чекбоксы.md",
     "UI",
-    "Шаблоны/Мета.md",
-    "_Входящие/Рецепты.md",
     "_Входящие",
     "Визуализация навигации.canvas",
     "Инструменты",

@@ -2,7 +2,6 @@
   "obsidian-icon-folder",
   "obsidian-file-link",
   "calendar",
-  "periodic-notes",
   "callout-manager",
   "obsidian-list-callouts",
   "oz-clear-unused-images",
@@ -11,7 +10,6 @@
   "dataview",
   "editing-toolbar",
   "obsidian-excalidraw-plugin",
-  "improved-random-note",
   "obsidian-kanban",
   "obsidian-local-images-plus",
   "obsidian-minimal-settings",
@@ -24,9 +22,9 @@
   "tag-wrangler",
   "templater-obsidian",
   "obsidian-style-settings",
-  "random-structural-diary-plugin",
   "cmdr",
   "obsidian-contextual-typography",
   "homepage",
-  "obsidian-hider"
+  "obsidian-hider",
+  "table-editor-obsidian"
 ]
