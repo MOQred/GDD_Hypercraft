@@ -1,4 +1,4 @@
-<h1 align="center">GDD SlotRPG</h1>
+<h1 align="center">GDD My idle</h1>
 <p align="center"><a href="#-description">📖 Description</a> - <a href="#-how-to-view">🛠 How to View</a> - <a href="#-contacts">📧 Contacts</a></p>
 
 # 📖 Description
