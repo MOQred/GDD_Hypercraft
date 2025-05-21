@@ -109,27 +109,9 @@
       "key": "'"
     }
   ],
-  "theme:use-light": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "W"
-    }
-  ],
   "obsidian-excalidraw-plugin:insert-link": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "workspace:close-window": [],
-  "theme:use-dark": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "obsidian-outliner:indent-list": [
     {
       "modifiers": [
@@ -354,6 +336,16 @@
         "Shift"
       ],
       "key": "U"
+    }
+  ],
+  "homepage:set-to-active-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
     }
   ]
 }

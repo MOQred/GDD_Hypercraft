@@ -30,7 +30,9 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "_Входящие": "LiMail",
   "Регулярные записи": "CoCalendarDays",
