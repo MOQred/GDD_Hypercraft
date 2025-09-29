@@ -1,12 +1,15 @@
 [
-  "obsidian-icon-folder",
+  "table-editor-obsidian",
   "obsidian-file-link",
   "callout-manager",
-  "obsidian-list-callouts",
-  "oz-clear-unused-images",
   "colored-tags",
+  "obsidian-contextual-typography",
   "dataview",
   "editing-toolbar",
+  "obsidian-hider",
+  "homepage",
+  "obsidian-icon-folder",
+  "obsidian-list-callouts",
   "obsidian-local-images-plus",
   "obsidian-minimal-settings",
   "omnisearch",
@@ -14,11 +17,7 @@
   "obsidian-paste-to-current-indentation",
   "shortcuts-extender",
   "obsidian-stille",
-  "tag-wrangler",
   "obsidian-style-settings",
-  "cmdr",
-  "obsidian-contextual-typography",
-  "homepage",
-  "obsidian-hider",
-  "table-editor-obsidian"
+  "tag-wrangler",
+  "obsidian-pandoc"
 ]

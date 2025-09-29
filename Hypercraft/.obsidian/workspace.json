@@ -13,93 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Входящие/Чеклист UI.md",
+                "file": "Ultimate Merger/Достижения.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Чеклист UI"
-            }
-          },
-          {
-            "id": "72ccdc9f41bf1f16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultimate Merger/Обмен предметов.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Обмен предметов"
-            }
-          },
-          {
-            "id": "b2dd83587358fb7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultimate Merger/Кастомизация.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Кастомизация"
+              "title": "Достижения"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "41ede788f4dccfaa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f95eae44bb24de8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultimate Merger/Интерфейсы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Интерфейсы"
-            }
-          },
-          {
-            "id": "efce539edd7e7def",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultimate Merger/Меню настроек.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Меню настроек"
-            }
-          },
-          {
-            "id": "65afe3a29a780668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Входящие/Сундук.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Сундук"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "обмен",
+                "query": "настрой",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate Merger/Кастомизация.md",
+                "file": "Ultimate Merger/Достижения.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Кастомизация"
+              "title": "Структура Достижения"
             }
           },
           {
@@ -208,8 +130,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -286,6 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": true,
@@ -295,44 +218,46 @@
       "audio-recorder:Начать/остановить запись": true,
       "markdown-importer:Импорт Markdown-файлов": true,
       "workspaces:Пространства": true,
-      "callout-manager:Insert Callout": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-stille:Toggle Stille": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "callout-manager:Insert Callout": false,
       "homepage:Open homepage": false,
-      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-stille:Toggle Stille": false
     }
   },
-  "active": "b2dd83587358fb7d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Ultimate Merger/Обмен предметов.md",
-    "_Входящие/Чеклист UI.md",
-    "Ultimate Merger/Автоматическое заполнение обмена.md",
-    "Ultimate Merger/Меню настроек.md",
-    "Ultimate Merger/Интерфейсы.md",
+    "Ultimate Merger/~$стижения.docx",
+    "Ultimate Merger/Достижения.docx",
     "_Входящие/Сундук.md",
+    "!Точка входа.md",
+    "!Точка входа.docx",
+    "Ultimate Merger/Достижения.md",
+    "Ultimate Merger/!Игра.md",
+    "Ultimate Merger/Концепты UI.md",
+    "Ultimate Merger/Интерфейсы.md",
+    "Ultimate Merger/UI&UX.md",
+    "Ultimate Merger/Чеклист UI.md",
+    "Ultimate Merger/Ключевые даты.md",
+    "Ultimate Merger/Меню настроек.md",
     "Ultimate Merger/Избранный предмет.md",
+    "Ultimate Merger/Анимации персонажа.md",
+    "Ultimate Merger/Автоматическое заполнение обмена.md",
     "Ultimate Merger/Редкость предметов.md",
     "Ultimate Merger/Кастомизация.md",
-    "Ultimate Merger/Концепты UI.md",
-    "Шаблоны/Арт.md",
-    "!Точка входа.md",
-    "Ultimate Merger/Анимации персонажа.md",
     "Ultimate Merger/Концепты кастомизации персонажа.md",
-    "Инструменты/Cиротки.md",
-    "Ultimate Merger/Автоматическое заполнение обмена 1.md",
-    "Ultimate Merger/Персонаж.md",
-    "Инструменты/Словарь тегов.md",
-    "Ultimate Merger/Предмет.md",
-    "Ultimate Merger/Ключевые даты.md",
-    "Ultimate Merger/UI&UX.md",
-    "MyIdol.zip",
-    "Ultimate Merger/Механики.md",
-    "Ultimate Merger/!Игра.md",
     "Ultimate Merger/Локализация.md",
-    "Ultimate Merger/Ultimate Merger.zip",
     "Ultimate Merger/Мета прогрессия.md",
+    "Ultimate Merger/Механики.md",
+    "Ultimate Merger/Обмен предметов.md",
+    "Ultimate Merger/Персонаж.md",
+    "Ultimate Merger/Предмет.md",
     "!🔥Заметки.md",
+    "Шаблоны/Арт.md",
+    "Инструменты/Cиротки.md",
+    "MyIdol.zip",
+    "Ultimate Merger/Ultimate Merger.zip",
     "Файлы/Pasted image 20250521164908.png",
     "Файлы/Pasted image 20250521164903.png",
     "Файлы/Pasted image 20250521155730.png",
@@ -349,8 +274,6 @@
     "Визуализация навигации.canvas",
     "Инструменты",
     "Файлы",
-    "Шаблоны",
-    "Архив",
-    "Файлы/Таблица синтаксиса Markdown.pdf"
+    "Шаблоны"
   ]
 }
