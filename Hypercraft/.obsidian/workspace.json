@@ -8,17 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "52942f54085bee99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate Merger/Достижения.md",
+                "file": "Ultimate Merger/Пресеты.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Достижения"
+              "title": "Пресеты"
+            }
+          },
+          {
+            "id": "4cd2b383d995b4ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ultimate Merger/Коллекция.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Коллекция"
+            }
+          },
+          {
+            "id": "a42f6d599afc7f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ultimate Merger/Промокоды.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Промокоды"
             }
           }
         ]
@@ -69,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "настрой",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +121,7 @@
       {
         "id": "068fa287a763d2e6",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 28.362573099415204,
         "children": [
           {
             "id": "6294f54606d7130f",
@@ -115,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate Merger/Достижения.md",
+                "file": "Ultimate Merger/Пресеты.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Достижения"
+              "title": "Структура Пресеты"
             }
           },
           {
@@ -130,8 +158,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -183,12 +211,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e6b8b31fdd342dbb",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 71.6374269005848,
         "children": [
           {
             "id": "920e8345dec3eebd",
@@ -218,34 +246,38 @@
       "audio-recorder:Начать/остановить запись": true,
       "markdown-importer:Импорт Markdown-файлов": true,
       "workspaces:Пространства": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
       "homepage:Open homepage": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-stille:Toggle Stille": false
+      "obsidian-stille:Toggle Stille": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9be3e8f99c2ddb92",
   "lastOpenFiles": [
+    "Ultimate Merger/Промокоды.md",
+    "Ultimate Merger/Коллекция.md",
+    "Ultimate Merger/Пресеты.md",
+    "Файлы/Реф пресеты.png",
+    "Ultimate Merger/Меню настроек.md",
+    "Ultimate Merger/Чеклист UI.md",
+    "Ultimate Merger/!Игра.md",
+    "Ultimate Merger/Автоматическое заполнение обмена.md",
+    "!Точка входа.md",
+    "Ultimate Merger/Ключевые даты.md",
+    "Ultimate Merger/Кастомизация.md",
+    "Ultimate Merger/Интерфейсы.md",
+    "Ultimate Merger/Избранный предмет.md",
+    "Ultimate Merger/Достижения.md",
+    "Ultimate Merger/Анимации персонажа.md",
     "Ultimate Merger/~$стижения.docx",
     "Ultimate Merger/Достижения.docx",
     "_Входящие/Сундук.md",
-    "!Точка входа.md",
     "!Точка входа.docx",
-    "Ultimate Merger/Достижения.md",
-    "Ultimate Merger/!Игра.md",
     "Ultimate Merger/Концепты UI.md",
-    "Ultimate Merger/Интерфейсы.md",
     "Ultimate Merger/UI&UX.md",
-    "Ultimate Merger/Чеклист UI.md",
-    "Ultimate Merger/Ключевые даты.md",
-    "Ultimate Merger/Меню настроек.md",
-    "Ultimate Merger/Избранный предмет.md",
-    "Ultimate Merger/Анимации персонажа.md",
-    "Ultimate Merger/Автоматическое заполнение обмена.md",
     "Ultimate Merger/Редкость предметов.md",
-    "Ultimate Merger/Кастомизация.md",
     "Ultimate Merger/Концепты кастомизации персонажа.md",
     "Ultimate Merger/Локализация.md",
     "Ultimate Merger/Мета прогрессия.md",
@@ -254,8 +286,6 @@
     "Ultimate Merger/Персонаж.md",
     "Ultimate Merger/Предмет.md",
     "!🔥Заметки.md",
-    "Шаблоны/Арт.md",
-    "Инструменты/Cиротки.md",
     "MyIdol.zip",
     "Ultimate Merger/Ultimate Merger.zip",
     "Файлы/Pasted image 20250521164908.png",
@@ -268,12 +298,10 @@
     "Файлы/Pasted image 20250418022957.png",
     "Файлы/Pasted image 20250418022749.png",
     "Файлы/Pasted image 20250418020615.png",
-    "Файлы/Pasted image 20250418014721.png",
     "UI",
     "_Входящие",
     "Визуализация навигации.canvas",
     "Инструменты",
-    "Файлы",
-    "Шаблоны"
+    "Файлы"
   ]
 }
