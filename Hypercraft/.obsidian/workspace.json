@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52942f54085bee99",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate Merger/Пресеты.md",
+                "file": "!Точка входа.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Пресеты"
+              "title": "!Точка входа"
             }
           },
           {
-            "id": "4cd2b383d995b4ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultimate Merger/Коллекция.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Коллекция"
-            }
-          },
-          {
-            "id": "a42f6d599afc7f2c",
+            "id": "391ba769b655e123",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +35,8 @@
               "title": "Промокоды"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "промо",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate Merger/Пресеты.md",
+                "file": "Ultimate Merger/Промокоды.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Пресеты"
+              "title": "Структура Промокоды"
             }
           },
           {
@@ -254,21 +241,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9be3e8f99c2ddb92",
+  "active": "391ba769b655e123",
   "lastOpenFiles": [
-    "Ultimate Merger/Промокоды.md",
-    "Ultimate Merger/Коллекция.md",
+    "_Входящие/Система промокодов.md",
+    "!Точка входа.md",
     "Ultimate Merger/Пресеты.md",
+    "Ultimate Merger/Коллекция.md",
+    "Ultimate Merger/Ключевые даты.md",
+    "Ultimate Merger/Кастомизация.md",
+    "Ultimate Merger/Интерфейсы.md",
+    "Ultimate Merger/Избранный предмет.md",
+    "Ultimate Merger/Промокоды.md",
     "Файлы/Реф пресеты.png",
     "Ultimate Merger/Меню настроек.md",
     "Ultimate Merger/Чеклист UI.md",
     "Ultimate Merger/!Игра.md",
     "Ultimate Merger/Автоматическое заполнение обмена.md",
-    "!Точка входа.md",
-    "Ultimate Merger/Ключевые даты.md",
-    "Ultimate Merger/Кастомизация.md",
-    "Ultimate Merger/Интерфейсы.md",
-    "Ultimate Merger/Избранный предмет.md",
     "Ultimate Merger/Достижения.md",
     "Ultimate Merger/Анимации персонажа.md",
     "Ultimate Merger/~$стижения.docx",
@@ -285,7 +273,6 @@
     "Ultimate Merger/Обмен предметов.md",
     "Ultimate Merger/Персонаж.md",
     "Ultimate Merger/Предмет.md",
-    "!🔥Заметки.md",
     "MyIdol.zip",
     "Ultimate Merger/Ultimate Merger.zip",
     "Файлы/Pasted image 20250521164908.png",
